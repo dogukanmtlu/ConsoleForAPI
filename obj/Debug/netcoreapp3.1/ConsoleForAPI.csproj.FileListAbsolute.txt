@@ -1,0 +1,15 @@
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.csprojAssemblyReference.cache
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.AssemblyInfoInputs.cache
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.AssemblyInfo.cs
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.csproj.CoreCompileInputs.cache
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\bin\Debug\netcoreapp3.1\ConsoleForAPI.exe
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\bin\Debug\netcoreapp3.1\ConsoleForAPI.deps.json
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\bin\Debug\netcoreapp3.1\ConsoleForAPI.runtimeconfig.json
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\bin\Debug\netcoreapp3.1\ConsoleForAPI.runtimeconfig.dev.json
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\bin\Debug\netcoreapp3.1\ConsoleForAPI.dll
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\bin\Debug\netcoreapp3.1\ConsoleForAPI.pdb
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.dll
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.pdb
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.genruntimeconfig.cache
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DogukanMutlu\source\repos\ConsoleForAPI\ConsoleForAPI\obj\Debug\netcoreapp3.1\ConsoleForAPI.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "duEdCiFkxkz+Tx4kZvCra1ovCrAQv1zIcin439CPLl38ftdBOstyYI8LUp6++vrz1oRTytvCtMNeJazJd0zosg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DogukanMutlu\\source\\repos\\ConsoleForAPI\\ConsoleForAPI\\ConsoleForAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DogukanMutlu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
